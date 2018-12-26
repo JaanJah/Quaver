@@ -42,7 +42,7 @@ namespace Quaver.Shared.Screens.Gameplay.Rulesets.HitObjects
         /// <summary>
         ///     The list of possible beat snaps.
         /// </summary>
-        private static int[] BeatSnaps { get; } = { 48, 24, 16, 12, 8, 6, 4, 3 };
+        private static int[] BeatSnaps { get; } = { 48, 32, 24, 16, 12, 8, 6, 4, 3 };
 
         /// <summary>
         ///     The beat snap index of each object in the map.
